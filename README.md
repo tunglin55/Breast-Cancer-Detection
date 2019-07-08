@@ -3,9 +3,9 @@
 <img src="images/logo.png">
 </p>
 
-The problem that this data challenge tackles is the development of a model that is able to predict whether a biopsied breast cell is benign (not harmful) or malignant (cancerous), given a set of attributes about the cell. 
+The Canadian Cancer Society has identified breast cancer as the most commonly occuring cancer among Canadian women and second leading cause of death from cancer. With over 25,000 women diagnosed with breast cancer in 2017, early diagnosis is crucial factor for early treatment. Thus, the problem that this data challenge tackles is the development of a model that is able to predict whether a biopsied breast cell is benign (not harmful) or malignant (cancerous), given a set of attributes about the cell. 
 
-## Breast Cancer Data
+## Data
 
 ## Features
 
