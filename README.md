@@ -20,12 +20,16 @@ Ordinal variables (each valued from 1-10) measure the magnitude of the character
 </p>
 
 <p align="center">
-<img src="images/matrix.png">
+<img src="images/corr_matrix.png">
 </p>
 
 
 ## Model and Evaluation 
 Tackling this data challenge as a classification problem and due to the presence of class imbalance, a random forest model was selected. Specifically, the splitting rules used in the creation of the trees can allow both classes to be addressed. Evaluation of the model include not just accuracy but also include confusion matrix, precision score, ROC and PR curves.
+
+<p align="center">
+<img src="images/confusion_matrix.png">
+</p>
 
 ## Reference
 William H. Wolberg and O.L. Mangasarian: "Multisurface method of pattern separation for medical diagnosis applied to breast cytology", Proceedings of the National Academy of Sciences, U.S.A., Volume 87, December 1990, pp 9193-9196. 
